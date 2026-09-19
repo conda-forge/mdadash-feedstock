@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.3"
+  version: "0.1.4"
 
 package:
   name: mdadash
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mdadash/mdadash-${{ version }}.tar.gz
-  sha256: 9fe435d3818d44fd2f8a66ec71e985b81c5c43a0f8868f53723f763b91668080
+  sha256: 0ba6c97269be117e8c215f96b0936ede73df8a0c6289ceadad50d339f974155e
 
 build:
   number: 0
